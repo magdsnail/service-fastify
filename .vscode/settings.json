@@ -1,0 +1,5 @@
+{
+  "debug.node.autoAttach": "on",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true
+}
